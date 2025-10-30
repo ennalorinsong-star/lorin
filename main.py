@@ -4,3 +4,4 @@ st.write('ㅎㅇ')
 name=st.text_input('이름.')
 if st.button('인사말 생선'):
  st.write(name+'안녕하시긔')
+ st.balloons()
