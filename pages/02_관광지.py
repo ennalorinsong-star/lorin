@@ -44,6 +44,3 @@ for name, lat, lon, desc in locations:
 st_folium(m, width=900, height=600)
 
 st.caption("📍 자료 출처: VisitSeoul, Wikipedia, Google Maps")
-streamlit
-folium
-streamlit-folium
