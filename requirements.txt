@@ -3,3 +3,6 @@ folium
 streamlit-folium
 pandas
 plotly
+streamlit
+pandas
+plotly
